@@ -1,8 +1,0 @@
-Ivan Ivan Ivan 01.12.200 899999 m
-Ivan Ivan Ivan 01.13.2000 899999 m
-Ivan Ivan Ivan 01.99.2000 899999 m
-Ivan Ivan Ivan 01.12.2000 899999 m
-Ivan Ivan Ivan 01.12.20001 899999 m
-Ivan Ivan Ivan 01.12.2000123 899999 m
-Ivan Ivan Ivan 01.12.2a00 899999 m
-Ivan Ivan Ivan 01.12.200asd0 899999 m
